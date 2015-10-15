@@ -1,0 +1,63 @@
+header h1 {
+  font-size: 7em;
+  text-align: center;
+  text-decoration: overline;
+  color: #510764;
+  font-family: fantasy;
+  margin-bottom: 0px;
+}
+
+header h2 {
+  color: #0E0A84;
+  margin-right: 20px;
+  text-align: center;
+  font-family: serif;
+}
+
+header h3 {
+  font-size: 1em;
+  font-weight: bold;
+  padding: 5px;
+  text-align: center;
+  color: yellow;
+}
+
+header h4 {
+  font-size: 1em;
+  padding: 5px;
+  text-align: center;
+  font-family: fantasy;
+}
+
+section header img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  height: 100px;
+  width: 100px;
+}
+
+header img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 0px;
+  border: 0px;
+  height: 200px;
+  width: 300px;
+}
+
+#intro {
+  text-align: center;
+  font-size: 1.1em;
+}
+
+#top-bar {
+  display: block;
+  box-shadow: 4em;
+  background-image: url("download.jpeg");
+}
+
+#widgets {
+  background-color: white;
+}
