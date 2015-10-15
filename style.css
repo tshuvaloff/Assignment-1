@@ -1,5 +1,5 @@
 body {
-  background-image: url("download.jpeg");
+  /*background-image: url("download.jpeg");*/
 }
 
 header h1 {
@@ -63,5 +63,35 @@ header img {
 }
 
 #widgets {
-  background-color: white;
+  color: blue;
+  font-weight: bold;
+  font-size: 1.1em;
+  min-width: 22%;
+}
+
+.widget-text {
+  text-align: center;
+  font-size: 0.8em;
+}
+
+.widget-section {
+  padding: 10px;
+  margin: 10px;
+  margin-bottom: 20px;
+  border: 10px;
+  background-image: url("download.jpeg");
+  width: 250px;
+  height: 175px;
+}
+
+aside section h4 {
+  color: red;
+}
+
+aside section p {
+  padding-top:15px;
+}
+
+aside section ul {
+  padding-top:15px;
 }
